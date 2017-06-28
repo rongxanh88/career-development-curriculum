@@ -2,6 +2,10 @@
 
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
 
+## Mod 3 Deliverables:
+* Link to Resume
+https://docs.google.com/document/d/1H0F0pl7NRU5mUZKup7elizT2cBuI1r9r2VEZ4wZHchc/edit?usp=sharing
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
