@@ -4,7 +4,24 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 3 Deliverables:
 * Link to Resume
+https://drive.google.com/open?id=1H0F0pl7NRU5mUZKup7elizT2cBuI1r9r2VEZ4wZHchc
+
+* Flower Exercise
+https://drive.google.com/open?id=0B_AA1PShuElxTUNDcnhRSUZFZG8
+
+* Resume draft
 https://docs.google.com/document/d/1H0F0pl7NRU5mUZKup7elizT2cBuI1r9r2VEZ4wZHchc/edit?usp=sharing
+
+* Turing portfolio
+- I can't seem to find the link that Jorge sent out. Looking for it.
+
+* Trello Board with companies that are being tracked
+- Done, shared with meg
+
+* Job search action plan for Module 4 using this template
+https://gist.github.com/rongxanh88/e8b12c1b8b7154011b41387bdbb70d35
+
+Gear Up-related reflections
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
