@@ -13,10 +13,10 @@ https://drive.google.com/open?id=0B_AA1PShuElxTUNDcnhRSUZFZG8
 https://docs.google.com/document/d/1H0F0pl7NRU5mUZKup7elizT2cBuI1r9r2VEZ4wZHchc/edit?usp=sharing
 
 * Turing portfolio
-- I can't seem to find the link that Jorge sent out. Looking for it.
+https://www.turing.io/alumni/bao-nguyen
 
 * Trello Board with companies that are being tracked
-- Done, shared with meg
+https://trello.com/b/MklHyuYb/jobs
 
 * Job search action plan for Module 4 using this template
 https://gist.github.com/rongxanh88/e8b12c1b8b7154011b41387bdbb70d35
