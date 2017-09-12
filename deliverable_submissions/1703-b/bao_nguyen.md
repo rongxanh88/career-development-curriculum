@@ -17,6 +17,8 @@ Students should clone their individual file and update them with links to specif
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
+* [Link to Post-Turing Grad Plan](https://gist.github.com/rongxanh88/7e8394559bf04ef757a12ae553e9aca0)
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
