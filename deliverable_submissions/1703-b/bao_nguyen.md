@@ -14,7 +14,10 @@ Students should clone their individual file and update them with links to specif
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
 * Link to your completed Turing portfolio with 2 additional projects: 
+[Link to Turing Portfolio](https://www.turing.io/alumni/bao-nguyen)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+
+[Link to Interview Reflection](https://gist.github.com/rongxanh88/11d2e470c439bd6defe869fd289fefa1)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
 * [Link to Post-Turing Grad Plan](https://gist.github.com/rongxanh88/7e8394559bf04ef757a12ae553e9aca0)
